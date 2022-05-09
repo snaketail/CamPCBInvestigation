@@ -1,3 +1,6 @@
+#identifying the PCB defects
+
+
 import cv2
 import numpy as np
 
